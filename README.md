@@ -7,7 +7,7 @@ A Python-based tool that uses AI face recognition to find photos and videos of a
 
 **Folder Structure**
 1. baby-finder/reference
-2. baby-finder/matches
+2. baby-finder/matches (Matched results will be posted here)
 3. baby-finder/find_baby_images.py
 4. baby-finder/find_baby_videos.py
 
