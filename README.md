@@ -1,12 +1,9 @@
 A Python-based tool that uses AI face recognition to find photos and videos of a specific person (e.g. your baby) from large media backups.
 
 **Features**
-Scan thousands of photos recursively
-Scan videos by extracting frames at intervals
-Match faces using InsightFace embeddings
-Automatically move or copy matched files
-Supports nested folder structures
-Works on Windows with Python 3.12+
+1. Scan thousands of photos & videos recursively
+2. Supports nested folder structures
+3. Works with Python 3.12+
 
 **Folder Structure**
 baby-finder/
