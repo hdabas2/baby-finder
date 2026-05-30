@@ -17,7 +17,7 @@ A Python-based tool that uses AI face recognition to find photos and videos of a
 3. MATCH_FOLDER = r"D:\baby-finder\matches" (Destination folder for matched files.)
 
 **Run**
-1. Scan photos:python find_baby.py
+1. Scan photos:python find_baby_images.py
 2. Scan videos:python find_baby_videos.py
 
 **Notes**
