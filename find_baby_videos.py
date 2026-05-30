@@ -9,7 +9,7 @@ from insightface.app import FaceAnalysis
 # =====================================
 
 REFERENCE_FOLDER = r"D:\baby-finder\reference"
-SEARCH_FOLDER = r"E:\Harsh_phone\backup-May2026"
+SEARCH_FOLDER = r"E:\mobile\data"
 MATCH_FOLDER = r"D:\baby-finder\matches\videos"
 
 SIMILARITY_THRESHOLD = 0.45
