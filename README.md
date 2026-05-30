@@ -6,11 +6,10 @@ A Python-based tool that uses AI face recognition to find photos and videos of a
 3. Works with Python 3.12+
 
 **Folder Structure**
-baby-finder/
-├── reference/     # Reference photos of the person to find
-├── matches/       # Matched photos/videos
-├── find_baby.py
-├── find_baby_videos.py
+1. baby-finder/reference
+2. baby-finder/matches
+3. baby-finder/find_baby.py
+4. baby-finder/find_baby_videos.py
 
 **Update the following paths inside the script:**
 1. REFERENCE_FOLDER = r"D:\baby-finder\reference" (Contains 5–10 clear reference photos)
