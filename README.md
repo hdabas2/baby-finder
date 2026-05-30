@@ -11,17 +11,11 @@ baby-finder/
 ├── matches/       # Matched photos/videos
 ├── find_baby.py
 ├── find_baby_videos.py
-Configuration
 
 **Update the following paths inside the script:**
-1. REFERENCE_FOLDER = r"D:\baby-finder\reference"
-2. SEARCH_FOLDER = r"E:\mobile\data"
-3. MATCH_FOLDER = r"D:\baby-finder\matches\videos"
-
-1. REFERENCE_FOLDER → Contains 5–10 clear reference photos.
-2. SEARCH_FOLDER → Root folder containing photos/videos to scan.
-3. MATCH_FOLDER → Destination folder for matched files.
-
+1. REFERENCE_FOLDER = r"D:\baby-finder\reference" (Contains 5–10 clear reference photos)
+2. SEARCH_FOLDER = r"E:\mobile\data" (Root folder containing photos/videos to scan)
+3. MATCH_FOLDER = r"D:\baby-finder\matches" (Destination folder for matched files.)
 
 **Run**
 1. Scan photos:python find_baby.py
