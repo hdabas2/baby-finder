@@ -16,7 +16,7 @@ A Python-based tool that uses AI face recognition to find photos and videos of a
 2. SEARCH_FOLDER = r"E:\mobile\data" (Root folder containing photos/videos to scan)
 3. MATCH_FOLDER = r"D:\baby-finder\matches" (Destination folder for matched files.)
 
-**Dependencies**
+**Dependencies:**
 pip install opencv-python numpy insightface
 
 **Run**
